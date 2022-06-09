@@ -31,6 +31,7 @@ Blockchain
 ✔️ NFT minting site, NFT marketplace, Contract Audit
 
 Other experiences
+
 ✔️ Database: MySQL, PostgreSQL, MongoDB Firebase.
 
 ✔️ API: Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
