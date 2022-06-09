@@ -1,55 +1,41 @@
 Hi there 👋
-I am a full stack and blockchain developer and I have 7 years of experience in this part.
-
-For the late 3 years, I am working on blockchian.
-
-I am familiar with solidity, smart contracts, Openzeppeling and web3.
-
-I have experiences in NFT minting, NFT marketplace, tokenomics, DeFi and DAO.
+I am a Full Stack Developer and Blockchaiin Engineer with 8 years of experience in React-Node stack, Vue and TypeScript as well as Smart Contract and other latest technologies
 
 Skills
 Front-End
-✔️ React (5+ years): Redux, Material-UI, Ant Design, Semantic UI
 
-✔️ Angular (3+ years): Angular Material, NGX Bootstrap, NG Semantic-UI, NG Charts
+✔️ React, Redux, Material-UI, Ant Design, Semantic UI
 
 ✔️ Vue (5+ years): Vuex, Material Kit, Vuetify, Vux, Element
 
-✔️ Bootstrap, JS, HTML5, SASS, CSS3 - Responsive
+✔️ Bootstrap, JS, HTML5, SASS, CSS3 - Responsive (over 10 years)
 
-✔️ MERN, MEAN stack
+✔️ Jest Script, jQuery, Ajax
 
 Back-End
-✔️ PHP (5+ years): Laravel, Symfony, CodeIgniter, Yii, Node/Express
 
 ✔️ Node, Javascript, Typescript
 
+✔️ ASP.NET
+
+✔️ Unit Test
+
 Blockchain
-✔️ Ethereum
-
-✔️ Solidity
-
-✔️ NFT Minting
-
-✔️ NFT marketing
-
-✔️ NFT auction
 
 ✔️ Smart Contract
 
-✔️ DeFi
+✔️ Solidity
+
+✔️ Web3.js
+
+✔️ NFT minting site, NFT marketplace, Contract Audit
 
 Other experiences
-✔️ Database: MySQL, MongoDB, PostgreSQL, Firebase.
+✔️ Database: MySQL, PostgreSQL, MongoDB Firebase.
 
-✔️ API (5+ years): Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
+✔️ API: Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
 
-✔️ Several platforms and apis related to eCommerce.
+✔️ Hosting: AWS, GCP, Azure.
 
-✔️ AWS, GCP, Azure, Docker.
+✔️ JIRA, Trello, Zenhub, etc.
 
-✔️ Git, SVN, etc.
-
-✔️ JIRA, Trello, etc.
-
-✔️ C++, C#
