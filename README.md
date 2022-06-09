@@ -32,7 +32,7 @@ Blockchain
 
 Other experiences
 
-✔️ Database: MySQL, PostgreSQL, MongoDB Firebase.
+✔️ Database: MySQL, PostgreSQL, MongoDB, Firebase.
 
 ✔️ API: Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
 
