@@ -36,7 +36,7 @@ Other experiences
 
 ✔️ API: Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
 
-✔️ Hosting: AWS, GCP, Azure.
+✔️ Hosting: AWS, GCP, Azure, Digital Ocean, Netlify.
 
 ✔️ JIRA, Trello, Zenhub, etc.
 
