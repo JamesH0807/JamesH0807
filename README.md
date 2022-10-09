@@ -1,42 +1,49 @@
-Hi there 👋
-I am a Full Stack Developer and Blockchaiin Engineer with 8 years of experience in React-Node stack, Vue and TypeScript as well as Smart Contract and other latest technologies
+<h1 align="center">Hi 👋 there</h1>
+<h3 align="center">I am a Full Stack Developer🌟.</h3>
+<br>
 
-Skills
-Front-End
 
-✔️ React, Redux, Material-UI, Ant Design, Semantic UI
+⚡ **Languages and Tools:**
 
-✔️ Vue (5+ years): Vuex, Material Kit, Vuetify, Vux, Element
-
-✔️ Bootstrap, JS, HTML5, SASS, CSS3 - Responsive (over 10 years)
-
-✔️ Jest Script, jQuery, Ajax
-
-Back-End
-
-✔️ Node, Javascript, Typescript
-
-✔️ ASP.NET
-
-✔️ Unit Test
-
-Blockchain
-
-✔️ Smart Contract
-
-✔️ Solidity
-
-✔️ Web3.js
-
-✔️ NFT minting site, NFT marketplace, Contract Audit
-
-Other experiences
-
-✔️ Database: MySQL, PostgreSQL, MongoDB, Firebase.
-
-✔️ API: Facebook, Google, Twitter, Twilio, Google Map, Stripe, MailChimp.
-
-✔️ Hosting: AWS, GCP, Azure, Digital Ocean, Netlify.
-
-✔️ JIRA, Trello, Zenhub, etc.
-
+<p align="center">
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg'/></code>
+  <code><img width='100px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/python/python-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/php/php-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg'/></code>
+  <code><img width='100px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVt3A29FWA35kDD1MkvyC1LferPWSuZLT3cgLraYAFmIwoYf6H6yNAgT9rs68HAEnzWAY&usqp=CAU'/></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg'/></code>
+  <code><img width='100px' src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'/></code>
+  <code><img width='100px' src="https://i.ytimg.com/vi/E8l4UryS73w/maxresdefault.jpg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/coinbase/coinbase-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
+  <code><img width='100px' src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+</p>
+<br/>
+⚡ Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesH0807&theme=algolia" alt="JamesH0807" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JamesH0807&theme=tokyonight">
+</p>
+⚡ Recent Github Activity
+<a href="https://github.com/JamesH0807"><img alt="Risto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JamesH0807&custom_title=Recent%20Activity&theme=react-dark" /></a>
